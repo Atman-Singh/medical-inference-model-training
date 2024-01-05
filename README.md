@@ -1,2 +1,2 @@
 # medical-inference-model-training
-Trains Llama2 model on medical data using Low-Rank Adaption
+Trains instance of Llama2 on medical data using Supervised Fine-tuning and Low-Rank Adaption
